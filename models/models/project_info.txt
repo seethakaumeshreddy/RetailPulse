@@ -1,0 +1,4 @@
+Customer Segmentation : KMeans
+Forecasting : Time Series Forecast
+Churn Prediction : Rule Based
+Inventory Optimization : Recommendation Engine
