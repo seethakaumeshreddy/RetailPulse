@@ -1,8 +1,7 @@
+streamlit
 pandas
 numpy
+matplotlib
 scikit-learn
-streamlit
-xgboost
 prophet
-plotly
-openpyxl
+streamlit-option-menu
